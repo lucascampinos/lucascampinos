@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Lucas Campinos and I'm a Web Developer, from Porrtugal 🇵🇹 (originally from brazil 🇧🇷)</p>
 
 ###
 
