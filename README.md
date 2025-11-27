@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas Campinos and I'm a Web Developes, from Portugal (Originally from Brazil)</p>
+<p align="left">My name is Lucas Campinos and I'm a Web Developer and Pentester. Living in Portugal but originally from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Cybersecurity<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Cybersecurity<br></p>
 
 ###
 
