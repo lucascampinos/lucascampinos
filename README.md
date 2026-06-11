@@ -1,4 +1,4 @@
-# Hey 👋 What's up?
+# Hey, what's up?
 
 Meu nome é **Lucas Campinos** e sou Desenvolvedor Web e Pentester. Atualmente vivo em Portugal (Vila Nova de Gaia), mas sou originalmente do Brasil. 
 
