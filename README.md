@@ -16,12 +16,12 @@ Seja bem-vindo ao meu espaço no GitHub!
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Para manter o visual limpo e profissional, aqui estão as principais tecnologias com as quais trabalho:
+Aqui estão as principais tecnologias com as quais trabalho:
 
 #### Frontend & Backend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/cs-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### Automação & Scripting / Sistemas
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
