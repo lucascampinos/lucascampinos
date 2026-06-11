@@ -2,13 +2,13 @@
 
 Meu nome é **Lucas Campinos** e sou Desenvolvedor Web e Pentester. Atualmente vivo em Portugal (Vila Nova de Gaia), mas sou originalmente do Brasil. 
 
-Seja bem-vindo ao meu espaço no GitHub! 🚀
+Seja bem-vindo ao meu espaço no GitHub!
 
 ---
 
 ### 🛡️ Sobre mim
 
-- 💻 **Web Development:** Criando soluções focadas em performance e experiência do usuário desde 2020.
+- 💻 **Web Development:** Criando soluções focadas em performance e experiência do usuário desde 2023.
 - 🔒 **Cybersecurity:** Atualmente estudando a fundo Segurança da Informação, técnicas de Pentesting e mitigação de vulnerabilidades.
 - 💬 Fale comigo sobre: Desenvolvimento, Linux, Red Teaming e novas tecnologias.
 
@@ -55,4 +55,3 @@ Abaixo estão algumas métricas geradas dinamicamente com base nas minhas ativid
 Seja para trocar uma ideia sobre código, segurança ou oportunidades de projetos, sinta-se à vontade para entrar em contato!
 
 [![Email](https://img.shields.io/badge/Email-lucascampinosgithub%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:lucascampinosgithub@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_DO_LINKEDIN)
