@@ -1,51 +1,58 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-###
+Meu nome é **Lucas Campinos** e sou Desenvolvedor Web e Pentester. Atualmente vivo em Portugal (Vila Nova de Gaia), mas sou originalmente do Brasil. 
 
-<p align="left">My name is Lucas Campinos and I'm a Web Developer and Pentester. Living in Portugal but originally from Brazil</p>
+Seja bem-vindo ao meu espaço no GitHub! 🚀
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🛡️ Sobre mim
 
-###
+- 💻 **Web Development:** Criando soluções focadas em performance e experiência do usuário desde 2020.
+- 🔒 **Cybersecurity:** Atualmente estudando a fundo Segurança da Informação, técnicas de Pentesting e mitigação de vulnerabilidades.
+- 💬 Fale comigo sobre: Desenvolvimento, Linux, Red Teaming e novas tecnologias.
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Cybersecurity<br></p>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<h2 align="left">I code with</h2>
+Para manter o visual limpo e profissional, aqui estão as principais tecnologias com as quais trabalho:
 
-###
+#### Frontend & Backend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### Automação & Scripting / Sistemas
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-</div>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-###
+#### Infraestrutura / Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual__Studio__Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966"  />
-</div>
+---
 
-###
+### 📊 Estatísticas do GitHub
+
+Abaixo estão algumas métricas geradas dinamicamente com base nas minhas atividades por aqui:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascampinos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampinos&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas por Lucas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascampinos&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Vamos nos conectar?
+
+Seja para trocar uma ideia sobre código, segurança ou oportunidades de projetos, sinta-se à vontade para entrar em contato!
+
+[![Email](https://img.shields.io/badge/Email-lucascampinosgithub%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:lucascampinosgithub@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Oliveira-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_DO_LINKEDIN)
